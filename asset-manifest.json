@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/NOTE-app-yas/static/css/main.043bab87.css",
+    "main.js": "/NOTE-app-yas/static/js/main.8727c6d7.js",
+    "static/js/787.ccf476ba.chunk.js": "/NOTE-app-yas/static/js/787.ccf476ba.chunk.js",
+    "static/media/fa-solid-900.ttf": "/NOTE-app-yas/static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
+    "static/media/fa-brands-400.ttf": "/NOTE-app-yas/static/media/fa-brands-400.150de8eaa454d669c405.ttf",
+    "static/media/fa-solid-900.woff2": "/NOTE-app-yas/static/media/fa-solid-900.bb975c966c37455a1bc3.woff2",
+    "static/media/fa-brands-400.woff2": "/NOTE-app-yas/static/media/fa-brands-400.e033a13ee751afc1860c.woff2",
+    "static/media/fa-regular-400.ttf": "/NOTE-app-yas/static/media/fa-regular-400.d87474231f4192884802.ttf",
+    "static/media/notes3.png": "/NOTE-app-yas/static/media/notes3.b5e6da7b22c6aff3ac16.png",
+    "static/media/notes1.png": "/NOTE-app-yas/static/media/notes1.f8685c08687cfe0841c8.png",
+    "static/media/fa-regular-400.woff2": "/NOTE-app-yas/static/media/fa-regular-400.3223dc79c1adee56370b.woff2",
+    "static/media/fa-v4compatibility.ttf": "/NOTE-app-yas/static/media/fa-v4compatibility.0e3a648be390bd8cb094.ttf",
+    "static/media/fa-v4compatibility.woff2": "/NOTE-app-yas/static/media/fa-v4compatibility.68577e40f3e70067b5da.woff2",
+    "static/media/logo.svg": "/NOTE-app-yas/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/NOTE-app-yas/index.html",
+    "main.043bab87.css.map": "/NOTE-app-yas/static/css/main.043bab87.css.map",
+    "main.8727c6d7.js.map": "/NOTE-app-yas/static/js/main.8727c6d7.js.map",
+    "787.ccf476ba.chunk.js.map": "/NOTE-app-yas/static/js/787.ccf476ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.043bab87.css",
+    "static/js/main.8727c6d7.js"
+  ]
+}
